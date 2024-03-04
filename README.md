@@ -16,4 +16,4 @@ Database - MongoDB </br>
 * Open the UI folder in VS Code or any other preferred IDE.
 * Run the react application by opening the terminal and typing "npm install" to download all dependencies.
 * Then type "npm start".
-* Open a web browser and go to localhost:8080
+* Open a web browser and go to localhost:3000
